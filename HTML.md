@@ -11,4 +11,9 @@
 ...
 <h2 id="contacts-header">Contacts</h2>
 ```
+- How do we add a label to an input field? What does it do to the input field?
+- How do we add a placeholder text to an input field?
+- How do we make an input filed required?
+- What is a <div> element?
+
 
